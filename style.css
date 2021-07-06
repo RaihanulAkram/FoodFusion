@@ -218,7 +218,7 @@ footer{
 }
 
 /* responsive navbar */
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 600px) {
     nav{
         margin-left: 10%;
         margin-top: 25px;
