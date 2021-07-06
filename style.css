@@ -223,6 +223,10 @@ footer{
         margin-left: 10%;
         margin-top: 25px;
     }
+
+    .half-width{
+        width: 30%;
+    }
 }
 
 
