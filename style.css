@@ -217,17 +217,5 @@ footer{
     opacity: .3;
 }
 
-/* responsive navbar */
-@media screen and (min-width: 600px) {
-    nav{
-        margin-left: 10%;
-        margin-top: 25px;
-    }
-
-    .half-width{
-        width: 30%;
-    }
-}
-
 
 
